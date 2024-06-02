@@ -1,2 +1,2 @@
 # Clustering_Method
-This is the set of projects i do for clustering methods in the NYCU MSCS Courses 
+This is the set of projects i had done for clustering methods in the NYCU MS.CS Courses 
